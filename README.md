@@ -1,2 +1,2 @@
 # ParallelProgWFortran90
-Monte-Carlo Integration and sparse matrix exercise
+Monte-Carlo integration and sparse matrix exercise
